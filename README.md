@@ -1,6 +1,6 @@
 # Background
 
-These are codes to simulate the risk and return of renewable energy investment portfolios for the study "Building resilient renewable power generation portfolios: the impact of diversification on investors’ risk and return" [1]. 
+These codes are to simulate the risk and return of renewable energy investment portfolios for the study "Building resilient renewable power generation portfolios: the impact of diversification on investors’ risk and return" [1]. 
 
 The motivation and outcome are well summarized in the abstract -
 
