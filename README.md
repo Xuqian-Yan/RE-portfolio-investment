@@ -11,9 +11,9 @@ Over the coming years, variable renewables such as wind and photovoltaics will b
 
 # Code structure
 
-In the main folder, there are all codes for the publication - not only codes for the model, but also codes for visualization, generating tables, plotting additional graphs etc.
+In the main folder, there are all codes for the publication - not only codes for the model (model.m), but also codes for visualization, generating tables, plotting additional graphs etc.
 
-In the folder "GUI", the main model is packed as a Matlab GUI application "RE_portfolio_investment.mlapp". User could upload data of power plants and storage to run the simulation. However, the application is not yet flexible to deal with different data dimensions.
+In the folder "GUI", the main model is packed as a Matlab GUI application (RE_portfolio_investment.mlapp). User could upload data of power plants and storage to run the simulation. However, the application is not yet flexible to deal with different data dimensions.
 
 
 [1] (Submitted) Sinsel, S. R., Yan, X., & Stephan, A. (2019). Building resilient renewable power generation portfolios: the impact of diversification on investors’ risk and return, Applied Energy.
